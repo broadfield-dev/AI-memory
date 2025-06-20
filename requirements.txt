@@ -1,0 +1,6 @@
+datasets
+sentence-transformers
+faiss-cpu
+python-dotenv
+huggingface_hub
+numpy
